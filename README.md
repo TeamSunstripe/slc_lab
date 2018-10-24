@@ -2,7 +2,7 @@
 slc_lab
 
 ---
-開発ブログ
+## 開発ブログ
 https://slc-lab.amebaownd.com
 
 ---
@@ -13,7 +13,7 @@ https://slc-lab.amebaownd.com
 などを覚える方向性
 
 ---
-10/24
+## 10/24
 ・タイトル
 ・メニュー
 表示する
